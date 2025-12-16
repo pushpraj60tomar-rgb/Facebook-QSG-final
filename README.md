@@ -93,7 +93,7 @@ Facebook uploads and publishes your media post.
 This section describes how to create and publish Facebook posts using the Facebook website in a web browser on a desktop or laptop computer.
 
 This section covers how to:
-- Create a text-only post from a web browser.
+- Create a text-only post from a web browser. 
 - Create a photo or video post by uploading media from your computer.
 ---
 
