@@ -47,8 +47,11 @@ Before you create a post, ensure the following:
 ---
 
 ## Create a Post Using the Mobile App
-This section explains how to create text-only posts and photo or video posts using the Facebook app on Android or iOS.
+This section describes how to create and publish Facebook posts using the mobile app on Android and iOS devices. Use this section to post content quickly from a mobile device.
 
+This section covers how to:
+- Create a text-only post to share written updates.
+- Create a photo or video post using media from your device.
 ---
 
 ### Create a Text-Only Post on Mobile
@@ -87,8 +90,11 @@ Facebook uploads and publishes your media post.
 ---
 
 ## Create a Post Using a Computer (Web)
-This section explains how to create posts using the Facebook website on a Windows or Mac computer.
+This section describes how to create and publish Facebook posts using the Facebook website in a web browser on a desktop or laptop computer.
 
+This section covers how to:
+- Create a text-only post from a web browser.
+- Create a photo or video post by uploading media from your computer.
 ---
 
 ### Create a Text-Only Post on Web or Computer
