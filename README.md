@@ -55,7 +55,6 @@ This section covers how to:
 ---
 
 ### Create a Text-Only Post on Mobile
-Use this option to share text such as updates, thoughts, or announcements without media.
 
 **To create a text-only post:**
 
@@ -71,7 +70,6 @@ Facebook publishes your text-only post to your selected audience. You can edit o
 ---
 
 ### Create a Photo or Video Post on Mobile
-Use this option to share photos or videos from your device.
 
 **To create a photo or video post:**
 
@@ -98,7 +96,6 @@ This section covers how to:
 ---
 
 ### Create a Text-Only Post on Web or Computer
-Use this option to share written updates without media.
 
 **To create a text-only post:**
 
@@ -115,7 +112,6 @@ Facebook publishes your post to your timeline.
 ---
 
 ### Create a Photo or Video Post on Web or Computer
-Use this option to upload photos or videos from your computer.
 
 **To create a photo or video post:**
 
