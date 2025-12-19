@@ -32,7 +32,7 @@ This guide provides clear, task-based instructions for creating posts using the 
 
 The guide also includes troubleshooting information and best practices to help users create and publish posts successfully.
 
-
+![Facebook Flowchart](./images/facebook.drawio.png)
 
 ---
 
